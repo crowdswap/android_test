@@ -60,5 +60,5 @@ If you have any question regarding this test, please write us at d@crowdswap.com
 
 If you want to checkout our actual design of the app you can visit: https://projects.invisionapp.com/share/CTNXF5GZVRN
 
-
+Good luck!
 
