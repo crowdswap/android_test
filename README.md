@@ -10,6 +10,8 @@
 
 5. It is a plus if your app is well designed
 
+Please, create a fork of this repository and upload your code there. Let us know when you're done with the test so we can check what you've done. Thanks!
+
 
 ### Network Layer
 
