@@ -50,7 +50,7 @@ The following mutation example will create a new user in our database:
 
 ```graphql
 mutation {
-  registerSwapper(input: { email:"df@crowdswap.com", password:"hola123", birthDate:"1992-12-23", givenName:"Daniel", familyName:"Marulanda"}) {
+  registerSwapper(input: { email:"df@crowdswap.com", password:"hola123", birthDate:"1992-12-23", givenName:"Daniel", familyName:"Marulanda", username:"dfmarulanda69"}) {
     jwtToken
   }
 }
